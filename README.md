@@ -1,5 +1,5 @@
 # Dacon Financial Information AI Search Competition
-[![image](https://github.com/user-attachments/assets/fb271273-80d3-4a44-8548-817a094d4963)](https://dacon.io/competitions/official/236295/overview/description/)
+[[![image](https://github.com/user-attachments/assets/fb271273-80d3-4a44-8548-817a094d4963)]](https://github.com/byBJ-Park/dacon_financialInformation)(https://dacon.io/competitions/official/236295/overview/description/)
 
 Public score: 63/359(F1-Score: 0.66333)  
 Private score: 96/359(F1-Score: 0.62702)  
